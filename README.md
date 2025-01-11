@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a RecursionError that can occur in recursive functions if not handled properly.  The example shows a factorial function that does not explicitly handle negative input values, leading to infinite recursion and the RecursionError. The solution demonstrates how to add a check for invalid input to prevent this error.
